@@ -16,6 +16,7 @@ Start - Larger scope discussion of how data from Career Services departments acr
 26:34 – Q & A
 
 While the college will be using and updating the tools I created, the versions of the public dashboards I created and used with the presentation are preserved for reference with this repository.
+
 [Major Outcomes Explorer](https://app.powerbi.com/view?r=eyJrIjoiNmY2ZWViMWYtZjIzYS00ZTI4LTg3NzEtMTMwMzliMzFhNTEwIiwidCI6IjRlNGQyZWE5LTcyYTctNDQ0OC1iNDQwLTcyZGVmYTY5NjNiNiIsImMiOjN9)
 
 [RIASEC Major Explorer (Summer 2019)](https://app.powerbi.com/view?r=eyJrIjoiNTdhOGI1OGEtZjNhYS00MjM2LWEzZDYtYjE0NDgwZTc4ZTI0IiwidCI6IjRlNGQyZWE5LTcyYTctNDQ0OC1iNDQwLTcyZGVmYTY5NjNiNiIsImMiOjN9)
